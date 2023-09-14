@@ -11,5 +11,7 @@
         <item name="android:background">@color/white</item>
         <item name="itemIconTint">@color/black</item>
         <item name="itemTextColor">@color/blackWine</item>
+        <item name="itemRippleColor">@color/gray</item>
+        <!-- <item name="itemBackground">@color/white</item> -->
     </style>
 </resources>

@@ -11,4 +11,5 @@
     <string name="fragment3">Fragment 3</string>
     <string name="tvName">Titulo nombre</string>
     <string name="tvUrl">Titulo url</string>
+    <string name="cargando">CARGANDO...</string>
 </resources>
